@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Strategy Speed Gap",
+    "core_insight": "CPOs are under pressure to show strategic value fast — yet category strategy refreshes take weeks or months with spreadsheets and consultants. Competitors like Coupa, GEP, and Jaggaer all market execution speed (faster sourcing cycles, faster onboarding), but none credibly own 'time to strategy.' When you quantify the bottleneck between insight and board-ready strategy, you trigger the CPO's deepest frustration: being seen as operational, not strategic. The 90% faster stat reframes the problem from 'we need better tools' to 'we're leaving strategic cycles on the table.'",
+    "opening_template": "{{First Name}}, most procurement teams I speak with at {{industry}} companies say their category strategies take 6–8 weeks to refresh — Bertelsmann got that down to days across 7 divisions. Worth a 20-minute look at how?",
+    "proof_point": "Bertelsmann — 7 divisions using akirolabs to achieve up to 90% faster time to strategy, replacing consultant-driven and spreadsheet-based category strategy processes.",
+    "cta": "Offer a 20-minute strategy teardown: 'Happy to walk you through the exact workflow Bertelsmann uses — no pitch, just the framework. Worth a look?'",
+    "avoid": "Do NOT lead with 'AI-powered platform' or feature lists. The moment this sounds like another S2P suite demo, the CPO mentally files it next to the 14 other vendor emails they got this week. The angle only works if it stays anchored to the strategic output (board-ready category strategy), not the technology inputs."
+  },
+  {
+    "name": "Suite Fatigue Wedge",
+    "core_insight": "Enterprise procurement leaders have already invested heavily in S2P suites (Coupa, SAP Ariba, Ivalua, GEP SMART) for execution — sourcing events, PO automation, invoice processing. But these platforms are weak at the pre-execution strategy layer: scenario modeling, stakeholder alignment, strategic option generation. CPOs feel this gap acutely but rarely get pitched a solution that complements rather than replaces their existing stack. Positioning akirolabs as the 'strategy layer on top of your S2P suite' sidesteps the replacement objection entirely and reframes the conversation from vendor swap to capability uplift. This works because procurement leaders are exhausted by rip-and-replace pitches.",
+    "opening_template": "{{First Name}}, quick question — does your team build category strategies inside {{likely S2P platform, e.g., Coupa / Ariba}}, or does that still happen in PowerPoint and Excel before anything hits the system?",
+    "proof_point": "Merck and Axpo use akirolabs as a dedicated strategy layer alongside their existing procurement tech stack — akirolabs is explicitly not an S2P execution suite but an 'OS for strategic procurement' that feeds into downstream tools.",
+    "cta": "Propose a 15-minute architecture conversation: 'I can show you in 15 minutes how Merck layers strategic category planning on top of their existing procurement stack — interested in seeing the architecture?'",
+    "avoid": "Do NOT position akirolabs as competitive with or superior to their current S2P suite. The second you imply their Coupa/Ariba/GEP investment was wrong, you activate sunk-cost defensiveness and lose the CPO. The entire angle depends on validating their existing investment and filling the gap above it."
+  },
+  {
+    "name": "Unmanaged Spend Trigger",
+    "core_insight": "Research consistently shows 15–40% of enterprise spend (especially indirect) sits outside any formal category strategy. CPOs know this but lack a scalable way to bring more spend 'under strategy' without hiring more category managers or engaging expensive consultants. This is a quantifiable pain with board-level visibility — CFOs ask about it, and CPOs can't answer confidently. When you lead with the metric 'more spend under strategy' rather than software features, you speak the CPO's own KPI language. The trigger is shame + opportunity: they know the gap exists and they know it's costing margin.",
+    "opening_template": "{{First Name}}, Raiffeisen Bank used akirolabs to bring categories under formal strategy that had been running on autopilot for years — curious what percentage of your spend categories have a documented, current strategy today?",
+    "proof_point": "Raiffeisen Bank International as a reference customer, combined with akirolabs' core metric of 'more spend under strategy' — the platform's guided workflow and AI scenario modeling make it feasible to cover more categories without proportionally scaling headcount.",
+    "cta": "Offer a spend-under-strategy benchmark: 'We've mapped what 'good' looks like for spend-under-strategy ratios in {{their industry}}. Happy to share the benchmark and see where you stand — no commitment, just data.'",
+    "avoid": "Do NOT make this about cost savings alone. The angle dies if it collapses into a generic 'save 10% on procurement' pitch — every vendor says that. The power is in strategic coverage (breadth of categories under active strategy), which is a maturity and governance conversation, not a savings conversation. Keep it there."
+  }
+]

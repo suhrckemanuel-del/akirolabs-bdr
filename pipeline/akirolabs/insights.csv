@@ -1,0 +1,451 @@
+﻿id,company,industry,hq,headcount,cpo_hypothesis,pain_signal,before_after,angle1_name,angle1_dm,angle1_email_subject,angle1_email_body,angle2_name,angle2_dm,angle2_email_subject,angle2_email_body,angle3_name,angle3_dm,angle3_email_subject,angle3_email_body,priority
+1,Continental AG,Automotive components,"Hanover, Germany","~190,000",Head of Group Procurement / CPO,Ongoing transformation from traditional automotive to software-defined vehicles means procurement must rapidly adapt category strategies across fast-evolving tech and traditional component markets simultaneously.,"Today, Continental's procurement team manages thousands of suppliers across IT, MRO, logistics, facility management, and professional services in 50+ countries. As the business pivots from mechanical components to software-defined vehicles, category strategies for semiconductors, embedded software, cloud infrastructure, and legacy rubber/plastics supply chains all need simultaneous overhaul. Most of those strategies live in PowerPoint decks refreshed quarterly at best, with consultants filling the gaps. Categories in indirect spend run on autopilot for years between reviews. With Akirolabs: Each category manager at Continental can generate scenario-modeled, stakeholder-aligned strategies in days instead of weeks. The shift to software-defined vehicles means new categories like edge computing, ADAS sensor suppliers, and cybersecurity services get formal strategies at the same pace as legacy tire and braking component categories. More of Continental's indirect spend across 50+ countries moves from unmanaged to strategically governed, without scaling headcount proportionally.",Strategy Speed Gap,"Continental AG is under pressure to refresh category strategy faster as ongoing transformation from. Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a. I can send the workflow for Continental AG.
+
+Manuel",Continental's category strategy cycle vs. Bertelsmann's,"Continental AG is under pressure to refresh category strategy faster as ongoing transformation from traditional automotive to software-defined vehicles means procurement. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a days-long workflow. It gave category teams a faster way to keep strategy current.
+
+I can send the Bertelsmann workflow and show where it would apply at Continental AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Continental AG's procurement team likely has execution tooling in place, but ongoing transformation from. Merck uses Akirolabs as the strategy layer above its existing. I can show where that fits Continental AG's stack.
+
+Manuel",The strategy layer above Continental's S2P stack,"Continental AG's procurement team likely has execution tooling in place, but ongoing transformation from traditional automotive to software-defined vehicles means procurement still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck uses Akirolabs as the strategy layer above its existing procurement stack, so the suite stays in place.
+
+I can show the Merck architecture and where it would sit on top of Continental AG's stack. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, Continental's procurement team manages thousands of suppliers across IT, MRO, logistics, facility management. Raiffeisen Bank used Akirolabs to move autopilot categories back under. I can send the benchmark and first gaps.
+
+Manuel",Continental's indirect spend under formal strategy,"Today, Continental's procurement team manages thousands of suppliers across IT, MRO, logistics, facility management, and professional services in 50+ countries. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to move autopilot categories back under documented strategy and expand coverage. It gave the team a scalable way to widen strategic coverage.
+
+I can send the benchmark we use for Automotive components and the first coverage gaps teams usually find. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+2,ZF Friedrichshafen AG,Automotive components,"Friedrichshafen, Germany","~165,000",Chief Procurement Officer / SVP Procurement,"Major electrification pivot and recent acquisitions (e.g., WABCO) create enormous pressure to harmonize category strategies across legacy and newly integrated business units.","Today, ZF's procurement teams are building category strategies for engineering services, IT infrastructure, logistics, temporary labor, and facility management across 30+ countries using spreadsheets, consultants, and slide decks. Post-WABCO integration, legacy and acquired business units run parallel processes with no shared strategic framework. Each category refresh takes weeks. Most indirect categories have no documented strategy at all. The electrification pivot demands rapid reallocation of spend priorities, but the strategy cycle can't keep pace. With Akirolabs: ZF runs a single strategic layer across all business units, legacy and acquired. Category managers in Friedrichshafen, Shanghai, and Detroit build scenario-modeled strategies for indirect categories in days, not quarters. WABCO integration categories get harmonized against ZF's existing frameworks using guided workflows. More indirect spend moves under formal strategy without adding headcount. The CPO walks into board meetings with current, defensible category positions across the full portfolio.",Strategy Speed Gap,"ZF Friedrichshafen AG is under pressure to refresh category strategy faster as major electrification. Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh. I can map that workflow to ZF Friedrichshafen AG.
+
+Manuel",ZF's strategy cycle vs. the electrification clock,"ZF Friedrichshafen AG is under pressure to refresh category strategy faster as major electrification pivot and recent acquisitions (e.g., wabco) create enormous. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh time by up to 90%. It gave category teams a faster way to keep strategy current.
+
+I can walk through the Bertelsmann workflow and map it to ZF Friedrichshafen AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"ZF Friedrichshafen AG's procurement team likely has execution tooling in place, but major electrification. Merck and Axpo run Akirolabs on top of the execution. I can map that setup to ZF Friedrichshafen AG.
+
+Manuel",Strategy layer gap above ZF's procurement stack,"ZF Friedrichshafen AG's procurement team likely has execution tooling in place, but major electrification pivot and recent acquisitions (e.g., wabco) create enormous still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck and Axpo run Akirolabs on top of the execution stack they already own, with no replacement project attached.
+
+I can walk through the strategy-layer setup Merck uses and map it to ZF Friedrichshafen AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, ZF's procurement teams are building category strategies for engineering services, IT infrastructure, logistics. Raiffeisen Bank used Akirolabs to increase spend under strategy across. I can share where teams usually start.
+
+Manuel",How much ZF indirect spend lacks a strategy,"Today, ZF's procurement teams are building category strategies for engineering services, IT infrastructure, logistics, temporary labor, and facility management across 30+ countries. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to increase spend under strategy across categories that had been running on inertia. It gave the team a scalable way to widen strategic coverage.
+
+I can share the benchmark view for Automotive components and where teams usually start. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+3,Schaeffler AG,Automotive components / Industrial bearings,"Herzogenaurach, Germany","~84,000",Chief Procurement Officer / SVP Group Procurement,"Dual business model (automotive + industrial) requires separate category strategies with diverging market dynamics, and their ongoing restructuring demands faster, data-driven sourcing decisions.","Today, Schaeffler's procurement team manages category strategies across two fundamentally different business models. Automotive categories like stamped steel components, EV drivetrain tooling, and polymer seals face margin compression and OEM pricing pressure. Industrial categories like precision bearing steel, ceramic coatings, and MRO supplies follow different commodity cycles entirely. Refreshing strategies across both portfolios with consultants and spreadsheets means some categories go 18+ months without a strategic review, especially in indirect areas like energy, IT, and logistics across 70+ plants. With Akirolabs: Schaeffler's category managers run scenario models that account for diverging automotive and industrial market dynamics in the same platform. A bearing steel strategy can be refreshed in days, not quarters. Indirect categories like contract logistics or industrial energy procurement, previously managed on autopilot, get pulled into formal strategic coverage without adding headcount. The restructuring roadmap gets a procurement strategy layer that moves at the same speed as the business decisions it needs to support.",Strategy Speed Gap,"Schaeffler AG is under pressure to refresh category strategy faster as dual business model. At Bertelsmann, Akirolabs moved category strategy work across 7 divisions. I can show where that fits Schaeffler AG.
+
+Manuel","Schaeffler's dual portfolio, one strategy bottleneck","Schaeffler AG is under pressure to refresh category strategy faster as dual business model (automotive + industrial) requires separate category strategies. That usually leaves teams reacting late to market moves.
+
+At Bertelsmann, Akirolabs moved category strategy work across 7 divisions from weeks to days. It gave category teams a faster way to keep strategy current.
+
+I can share the operating model behind Bertelsmann's rollout and where it fits Schaeffler AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Schaeffler AG's procurement team likely has execution tooling in place, but dual business model. At Merck, Akirolabs handles the strategy work before decisions flow. I can share where that layer fits at Schaeffler.
+
+Manuel",Strategy layer missing above Schaeffler's S2P stack,"Schaeffler AG's procurement team likely has execution tooling in place, but dual business model (automotive + industrial) requires separate category strategies still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+At Merck, Akirolabs handles the strategy work before decisions flow into the downstream procurement tools.
+
+I can share the stack view Merck uses and where the same layer would fit at Schaeffler AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, Schaeffler's procurement team manages category strategies across two fundamentally different business models. Raiffeisen Bank used Akirolabs to bring neglected categories under formal. I can share the benchmark for Automotive components /.
+
+Manuel",How much Schaeffler spend lacks a strategy,"Today, Schaeffler's procurement team manages category strategies across two fundamentally different business models. That usually means part of the portfolio is still running on inertia. The backlog is usually visible well before the board sees it.
+
+Raiffeisen Bank used Akirolabs to bring neglected categories under formal strategy without adding headcount. It gave the team a scalable way to widen strategic coverage.
+
+I can share the spend-under-strategy benchmark we use for Automotive components / Industrial bearings. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+4,MAHLE GmbH,Automotive components,"Stuttgart, Germany","~72,000",Vice President Procurement / Head of Group Purchasing,Transition from combustion engine components to thermal management and e-mobility creates rapidly shifting supply markets where manual PowerPoint-based strategies become obsolete before completion.,"Today, MAHLE's category managers are building strategies for energy procurement across 150+ plants, logistics networks spanning 30 countries, and fast-shifting thermal management supply markets using the same PowerPoint decks and consultant workshops they used when the business was 90% combustion. Each strategy refresh takes weeks. By the time a deck on e-mobility component sourcing reaches the board, the supplier landscape has already moved. Indirect categories like facility management and IT consulting run without a formal strategy at all. Nobody has a current count of how much spend is actually covered. With Akirolabs: MAHLE's procurement team builds scenario-modeled category strategies for energy, logistics, and e-mobility sourcing in days instead of weeks. Every category. Every region. One consistent framework that connects directly to board-level reporting. Categories that ran on autopilot. facility management, consulting, IT services across 30+ countries. now have a documented, pressure-tested strategy. The team covers more spend without adding headcount, and strategies stay current as thermal management and electrification markets shift quarter to quarter.",Strategy Speed Gap,"MAHLE GmbH is under pressure to refresh category strategy faster as transition from combustion. Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a. I can send the workflow for MAHLE GmbH.
+
+Manuel",MAHLE's strategy cycle vs. market speed,"MAHLE GmbH is under pressure to refresh category strategy faster as transition from combustion engine components to thermal management and e-mobility. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a days-long workflow. It gave category teams a faster way to keep strategy current.
+
+I can send the Bertelsmann workflow and show where it would apply at MAHLE GmbH. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"MAHLE GmbH's procurement team likely has execution tooling in place, but transition from combustion. Merck uses Akirolabs as the strategy layer above its existing. I can show where that fits MAHLE GmbH's stack.
+
+Manuel",Strategy layer gap above MAHLE's procurement suite,"MAHLE GmbH's procurement team likely has execution tooling in place, but transition from combustion engine components to thermal management and e-mobility still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck uses Akirolabs as the strategy layer above its existing procurement stack, so the suite stays in place.
+
+I can show the Merck architecture and where it would sit on top of MAHLE GmbH's stack. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, MAHLE's category managers are building strategies for energy procurement across 150+ plants, logistics. Raiffeisen Bank used Akirolabs to move autopilot categories back under. I can send the benchmark and first gaps.
+
+Manuel",How much MAHLE spend has a current strategy,"Today, MAHLE's category managers are building strategies for energy procurement across 150+ plants, logistics networks spanning 30 countries, and fast-shifting thermal management. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to move autopilot categories back under documented strategy and expand coverage.
+
+I can send the benchmark we use for Automotive components and the first coverage gaps teams usually find. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+5,Evonik Industries AG,Specialty chemicals,"Essen, Germany","~33,000",Chief Procurement Officer / Head of Group Procurement,"Specialty chemicals face extreme raw material price volatility and regulatory shifts, making static 6-week category strategy cycles dangerously slow for market responsiveness.","Today at Evonik, category strategies for energy, specialty logistics, MRO, and lab equipment likely refresh on fixed cycles. Meanwhile, TDI and MDI feedstock prices swing 20% in a quarter, REACH compliance timelines shift, and Chinese supplier dynamics change faster than any PowerPoint deck can track. Categories with no dedicated manager run on inherited contracts. The CPO team spends weeks assembling board-ready strategies that are already stale on delivery. With Akirolabs: Each category team at Evonik pulls live scenario models that factor in raw material volatility, regulatory exposure, and supplier concentration risk. A strategy for silica logistics or lab consumables goes from blank page to board-ready in days, not weeks. Categories that sat on autopilot get formal strategic coverage without adding headcount. The procurement function reports to the Vorstand with current, defensible strategies across the full indirect portfolio.",Strategy Speed Gap,"Evonik Industries AG is under pressure to refresh category strategy faster as specialty chemicals. Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh. I can map that workflow to Evonik Industries AG.
+
+Manuel",Evonik's category refresh vs. feedstock volatility,"Evonik Industries AG is under pressure to refresh category strategy faster as specialty chemicals face extreme raw material price volatility and regulatory. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh time by up to 90%. It gave category teams a faster way to keep strategy current.
+
+I can walk through the Bertelsmann workflow and map it to Evonik Industries AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Evonik Industries AG's procurement team likely has execution tooling in place, but specialty chemicals. Merck and Axpo run Akirolabs on top of the execution. I can map that setup to Evonik Industries AG.
+
+Manuel",Strategy layer above Evonik's procurement stack,"Evonik Industries AG's procurement team likely has execution tooling in place, but specialty chemicals face extreme raw material price volatility and regulatory still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck and Axpo run Akirolabs on top of the execution stack they already own, with no replacement project attached.
+
+I can walk through the strategy-layer setup Merck uses and map it to Evonik Industries AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today at Evonik, category strategies for energy, specialty logistics, MRO, and lab equipment likely. Raiffeisen Bank used Akirolabs to increase spend under strategy across. I can share where teams usually start.
+
+Manuel",How much Evonik spend lacks formal strategy,"Today at Evonik, category strategies for energy, specialty logistics, MRO, and lab equipment likely refresh on fixed cycles. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to increase spend under strategy across categories that had been running on inertia. It gave the team a scalable way to widen strategic coverage.
+
+I can share the benchmark view for Specialty chemicals and where teams usually start. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+6,Lanxess AG,Specialty chemicals,"Cologne, Germany","~13,000",Chief Procurement Officer / SVP Procurement,Recent portfolio restructuring (sale of engineering plastics to Advent) demands rapid re-baselining of category strategies across remaining business units under cost pressure.,"Before: After divesting engineering plastics to Advent, Lanxess procurement is stuck re-baselining category strategies across remaining units. Energy procurement, logistics across 30+ countries, MRO for chemical plants, IT services, consulting. Each category needs a fresh strategic view under new portfolio boundaries, but category managers are rebuilding in Excel and PowerPoint while leadership demands cost clarity now. Strategies go stale before they reach the board. With Akirolabs: Each remaining business unit runs category strategies through a single guided workflow. Scenario modeling accounts for Lanxess's shifted portfolio. Energy procurement strategies reflect the new cost structure. Logistics and MRO categories that were shared with the divested unit get re-scoped in days, not quarters. The CPO presents a complete, current strategic picture to the board within weeks of close, not months.",Strategy Speed Gap,"Lanxess AG is under pressure to refresh category strategy faster as recent portfolio restructuring. At Bertelsmann, Akirolabs moved category strategy work across 7 divisions. I can show where that fits Lanxess AG.
+
+Manuel",Lanxess post-divestiture strategy re-baseline,"Lanxess AG is under pressure to refresh category strategy faster as recent portfolio restructuring (sale of engineering plastics to advent) demands. That usually leaves teams reacting late to market moves.
+
+At Bertelsmann, Akirolabs moved category strategy work across 7 divisions from weeks to days. It gave category teams a faster way to keep strategy current.
+
+I can share the operating model behind Bertelsmann's rollout and where it fits Lanxess AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Lanxess AG's procurement team likely has execution tooling in place, but recent portfolio restructuring. At Merck, Akirolabs handles the strategy work before decisions flow. I can share where that layer fits at Lanxess.
+
+Manuel",Strategy layer above Lanxess's procurement stack,"Lanxess AG's procurement team likely has execution tooling in place, but recent portfolio restructuring (sale of engineering plastics to advent) demands still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+At Merck, Akirolabs handles the strategy work before decisions flow into the downstream procurement tools.
+
+I can share the stack view Merck uses and where the same layer would fit at Lanxess AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"After divesting engineering plastics to Advent, Lanxess procurement is stuck re-baselining category strategies across. Raiffeisen Bank used Akirolabs to bring neglected categories under formal. I can share the benchmark for Specialty chemicals.
+
+Manuel",Lanxess spend categories running without strategy,"After divesting engineering plastics to Advent, Lanxess procurement is stuck re-baselining category strategies across remaining units. That usually means part of the portfolio is still running on inertia. The backlog is usually visible well before the board sees it.
+
+Raiffeisen Bank used Akirolabs to bring neglected categories under formal strategy without adding headcount. It gave the team a scalable way to widen strategic coverage.
+
+I can share the spend-under-strategy benchmark we use for Specialty chemicals. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+7,Commerzbank AG,Banking / Financial services,"Frankfurt, Germany","~42,000",Head of Group Procurement / CPO,Ongoing cost transformation program and IT modernization create urgent need to accelerate category strategy cycles across dozens of indirect categories simultaneously.,"Before: Commerzbank's procurement team manages dozens of indirect categories. IT infrastructure, consulting, facility management, professional services. Each category strategy refresh requires weeks of analyst time, consultant input, and stakeholder alignment cycles. With a cost transformation program and IT modernization running in parallel, the strategy backlog grows faster than the team can clear it. Lower-priority categories like marketing services or FM run on expired strategies or none at all. With Akirolabs: Category managers at Commerzbank build board-ready strategies in days, not weeks. AI-driven scenario modeling handles regulatory constraints specific to banking procurement. The team covers 3x more categories under formal strategy without adding headcount. IT modernization categories get dedicated strategic options evaluated against cost, risk, and compliance criteria before sourcing events ever begin.",Strategy Speed Gap,"Commerzbank AG is under pressure to refresh category strategy faster as ongoing cost transformation. Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a. I can send the workflow for Commerzbank AG.
+
+Manuel",Strategy cycles slowing Commerzbank's cost program?,"Commerzbank AG is under pressure to refresh category strategy faster as ongoing cost transformation program and it modernization create urgent need. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a days-long workflow. It gave category teams a faster way to keep strategy current.
+
+I can send the Bertelsmann workflow and show where it would apply at Commerzbank AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Commerzbank AG's procurement team likely has execution tooling in place, but ongoing cost transformation. Merck uses Akirolabs as the strategy layer above its existing. I can show where that fits Commerzbank AG's stack.
+
+Manuel",Where Commerzbank builds category strategies today,"Commerzbank AG's procurement team likely has execution tooling in place, but ongoing cost transformation program and it modernization create urgent need still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck uses Akirolabs as the strategy layer above its existing procurement stack, so the suite stays in place.
+
+I can show the Merck architecture and where it would sit on top of Commerzbank AG's stack. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Commerzbank's procurement team manages dozens of indirect categories. Raiffeisen Bank used Akirolabs to move autopilot categories back under. I can send the benchmark and first gaps.
+
+Manuel",Commerzbank's indirect spend strategy coverage,"Commerzbank's procurement team manages dozens of indirect categories. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to move autopilot categories back under documented strategy and expand coverage. It gave the team a scalable way to widen strategic coverage.
+
+I can send the benchmark we use for Banking / Financial services and the first coverage gaps teams usually find. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+8,DZ Bank AG,Cooperative banking / Financial services,"Frankfurt, Germany","~32,000",Head of Procurement / Leiter Einkauf,"As Germany's second-largest bank by assets with a federated cooperative structure, aligning category strategies across group entities is highly complex and manual.","Today, DZ Bank's procurement team coordinates category strategies for IT outsourcing, consulting panels, and facility management across a federated cooperative structure with dozens of group entities. Each entity runs its own timelines, its own spreadsheets, its own consultant decks. Aligning on a single strategy for shared spend categories like professional services or software licensing takes months of manual consolidation. Categories with lower visibility run without any documented strategy at all. With Akirolabs: Each category manager works from a single strategic workspace that feeds from existing systems and generates scenario-modeled, board-ready strategies in days. Group entities contribute to and align on shared category strategies through guided workflows instead of email chains. IT, consulting, and facility management categories that previously ran on autopilot get formal strategic coverage without adding headcount.",Strategy Speed Gap,"DZ Bank AG is under pressure to refresh category strategy faster as as germany's. Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh. I can map that workflow to DZ Bank AG.
+
+Manuel",Category strategy cycles across DZ Bank group,"DZ Bank AG is under pressure to refresh category strategy faster as as germany's second-largest bank by assets with a federated cooperative. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh time by up to 90%. It gave category teams a faster way to keep strategy current.
+
+I can walk through the Bertelsmann workflow and map it to DZ Bank AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"DZ Bank AG's procurement team likely has execution tooling in place, but as germany's. Merck and Axpo run Akirolabs on top of the execution. I can map that setup to DZ Bank AG.
+
+Manuel",Strategy layer gap in DZ Bank's procurement stack,"DZ Bank AG's procurement team likely has execution tooling in place, but as germany's second-largest bank by assets with a federated cooperative still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck and Axpo run Akirolabs on top of the execution stack they already own, with no replacement project attached.
+
+I can walk through the strategy-layer setup Merck uses and map it to DZ Bank AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, DZ Bank's procurement team coordinates category strategies for IT outsourcing, consulting panels, and. Raiffeisen Bank used Akirolabs to increase spend under strategy across. I can share where teams usually start.
+
+Manuel",How many DZ Bank categories have a current strategy,"Today, DZ Bank's procurement team coordinates category strategies for IT outsourcing, consulting panels, and facility management across a federated cooperative structure with. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to increase spend under strategy across categories that had been running on inertia.
+
+I can share the benchmark view for Cooperative banking / Financial services and where teams usually start. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+9,Fresenius SE,Healthcare / Life sciences,"Bad Homburg, Germany","~190,000",Group Chief Procurement Officer / SVP Group Procurement,"Four diverse business segments (Kabi, Helios, Vamed, Medical Care) create siloed category strategies with limited cross-segment leverage and no unified market intelligence.","Today, Fresenius runs category strategies independently across Kabi, Helios, Vamed, and Medical Care. Medical device sourcing in Kabi has no line of sight into Helios facility management contracts. IT services get renegotiated segment by segment. Logistics strategies exist in scattered PowerPoints, refreshed annually at best by external consultants. The Group CPO has no single view of strategic coverage across 190,000-employee indirect spend, and cross-segment leverage stays theoretical. With Akirolabs: Each segment builds category strategies in a shared, structured environment. A logistics category strategy created for Kabi is visible, comparable, and adaptable for Vamed. Market intelligence on medical device suppliers feeds Helios and Kabi simultaneously. The Group CPO sees which categories across all four segments have current strategies and where spend is running unmanaged. Cross-segment synergies become identifiable in hours, not after a six-month consulting engagement.",Strategy Speed Gap,"Fresenius SE is under pressure to refresh category strategy faster as four diverse business. At Bertelsmann, Akirolabs moved category strategy work across 7 divisions. I can show where that fits Fresenius SE.
+
+Manuel",Category strategy cycles across four segments,"Fresenius SE is under pressure to refresh category strategy faster as four diverse business segments (kabi, helios, vamed, medical care) create. That usually leaves teams reacting late to market moves.
+
+At Bertelsmann, Akirolabs moved category strategy work across 7 divisions from weeks to days. It gave category teams a faster way to keep strategy current.
+
+I can share the operating model behind Bertelsmann's rollout and where it fits Fresenius SE. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Fresenius SE's procurement team likely has execution tooling in place, but four diverse business. At Merck, Akirolabs handles the strategy work before decisions flow. I can share where that layer fits at Fresenius.
+
+Manuel",Strategy layer above your procurement stack,"Fresenius SE's procurement team likely has execution tooling in place, but four diverse business segments (kabi, helios, vamed, medical care) create still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+At Merck, Akirolabs handles the strategy work before decisions flow into the downstream procurement tools.
+
+I can share the stack view Merck uses and where the same layer would fit at Fresenius SE. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, Fresenius runs category strategies independently across Kabi, Helios, Vamed, and Medical Care. Raiffeisen Bank used Akirolabs to bring neglected categories under formal. I can share the benchmark for Healthcare / Life.
+
+Manuel",How much Fresenius spend lacks a strategy,"Today, Fresenius runs category strategies independently across Kabi, Helios, Vamed, and Medical Care. That usually means part of the portfolio is still running on inertia. The backlog is usually visible well before the board sees it.
+
+Raiffeisen Bank used Akirolabs to bring neglected categories under formal strategy without adding headcount. It gave the team a scalable way to widen strategic coverage.
+
+I can share the spend-under-strategy benchmark we use for Healthcare / Life sciences. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+10,Sartorius AG,Pharma / Life sciences equipment,"Göttingen, Germany","~14,000",VP Procurement / Head of Global Procurement,Rapid growth through acquisitions and expansion demands scaling procurement strategy capabilities far beyond what manual processes can support.,"Before: Sartorius runs 14,000 employees across dozens of acquired entities, each with overlapping indirect spend in IT services, lab consumables, logistics, and facility management. Category strategies for these areas live in PowerPoint decks that are outdated before they're finished. Every acquisition adds new suppliers, new contracts, and new tail spend that nobody maps to a coherent strategy. The procurement team gets pulled into integration firefighting instead of building repeatable strategic frameworks. Coverage is thin. The CFO asks what percentage of indirect spend is under active strategy and the answer is uncomfortable. With Akirolabs: Each post-acquisition category gets a structured, AI-assisted strategy built in days instead of weeks. Lab consumables, IT outsourcing, logistics, professional services, facility management. All run through the same strategic workflow with scenario modeling, stakeholder alignment built in, and output that goes straight to the board. Sartorius scales strategy coverage proportionally with its growth instead of falling further behind with every deal.",Strategy Speed Gap,"Sartorius AG is under pressure to refresh category strategy faster as rapid growth through. Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a. I can send the workflow for Sartorius AG.
+
+Manuel",Category strategy speed at Sartorius post-acquisitions,"Sartorius AG is under pressure to refresh category strategy faster as rapid growth through acquisitions and expansion demands scaling procurement strategy. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a days-long workflow. It gave category teams a faster way to keep strategy current.
+
+I can send the Bertelsmann workflow and show where it would apply at Sartorius AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Sartorius AG's procurement team likely has execution tooling in place, but rapid growth through. Merck uses Akirolabs as the strategy layer above its existing. I can show where that fits Sartorius AG's stack.
+
+Manuel",Strategy layer gap above Sartorius procurement stack,"Sartorius AG's procurement team likely has execution tooling in place, but rapid growth through acquisitions and expansion demands scaling procurement strategy still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck uses Akirolabs as the strategy layer above its existing procurement stack, so the suite stays in place.
+
+I can show the Merck architecture and where it would sit on top of Sartorius AG's stack. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Sartorius runs 14,000 employees across dozens of acquired entities, each with overlapping indirect spend. Raiffeisen Bank used Akirolabs to move autopilot categories back under. I can send the benchmark and first gaps.
+
+Manuel",Spend under strategy ratio at Sartorius,"Sartorius runs 14,000 employees across dozens of acquired entities, each with overlapping indirect spend in IT services, lab consumables, logistics, and facility. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to move autopilot categories back under documented strategy and expand coverage.
+
+I can send the benchmark we use for Pharma / Life sciences equipment and the first coverage gaps teams usually find. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+11,EnBW Energie Baden-Württemberg AG,Energy / Utilities,"Karlsruhe, Germany","~27,000",Head of Group Procurement / CPO,"Massive capital investment in renewable energy and grid modernization requires rapid, data-driven category strategies in fast-moving markets for wind, solar, and grid components.","EnBW is deploying billions into offshore wind, solar parks, grid modernization, and EV charging infrastructure. Each capital program pulls in dozens of indirect categories. Wind turbine components, HVDC converter stations, civil engineering services, grid switchgear, IT infrastructure, consulting. Category managers are stretched across these fast-moving markets, building strategies in PowerPoint decks that go stale before they reach the board. New supplier markets in battery storage and green hydrogen add categories nobody has playbooks for yet. With Akirolabs: EnBW's procurement team covers twice the categories with the same headcount. Grid equipment, renewable energy components, construction services, and IT each get a current, scenario-modeled strategy that updates as market conditions shift. Board-ready outputs replace consultant slide decks. The team moves from reactive sourcing support to owning the strategic narrative on energy transition spend.",Strategy Speed Gap,"EnBW Energie Baden-Württemberg AG is under pressure to refresh category strategy faster as massive. Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh. I can map that workflow to EnBW Energie Baden-Württemberg.
+
+Manuel",EnBW category strategies vs. investment pace,"EnBW Energie Baden-Württemberg AG is under pressure to refresh category strategy faster as massive capital investment in renewable energy and grid modernization requires. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh time by up to 90%. It gave category teams a faster way to keep strategy current.
+
+I can walk through the Bertelsmann workflow and map it to EnBW Energie Baden-Württemberg AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"EnBW Energie Baden-Württemberg AG's procurement team likely has execution tooling in place, but massive. Merck and Axpo run Akirolabs on top of the execution. I can map that setup to EnBW Energie Baden-Württemberg.
+
+Manuel",Strategy layer missing above EnBW's procurement stack,"EnBW Energie Baden-Württemberg AG's procurement team likely has execution tooling in place, but massive capital investment in renewable energy and grid modernization requires still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck and Axpo run Akirolabs on top of the execution stack they already own, with no replacement project attached.
+
+I can walk through the strategy-layer setup Merck uses and map it to EnBW Energie Baden-Württemberg AG.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"EnBW is deploying billions into offshore wind, solar parks, grid modernization, and EV charging. Raiffeisen Bank used Akirolabs to increase spend under strategy across. I can share where teams usually start.
+
+Manuel",How much EnBW spend has a current strategy,"EnBW is deploying billions into offshore wind, solar parks, grid modernization, and EV charging infrastructure. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to increase spend under strategy across categories that had been running on inertia. It gave the team a scalable way to widen strategic coverage.
+
+I can share the benchmark view for Energy / Utilities and where teams usually start. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+12,Verbund AG,Energy / Utilities,"Vienna, Austria","~3,500",Head of Procurement / Leiter Einkauf,Major investments in renewable energy expansion and grid infrastructure require fast-adapting category strategies in increasingly competitive supplier markets across Central Europe.,"Today, Verbund's procurement team manages category strategies for turbine maintenance, construction services, IT, and consulting largely through PowerPoint decks and consultant workshops. With billions flowing into hydro expansion and grid infrastructure, strategy refreshes for critical indirect categories lag behind investment timelines. Supplier markets across Central Europe are tightening, and category managers are stretched across too many spend areas to keep strategies current. With Akirolabs: Each category from turbine MRO to facility management has a living, scenario-modeled strategy that updates as supplier markets shift. Category managers cover more ground without scaling headcount. Strategy documents feed directly into sourcing execution, and leadership gets real-time visibility into which categories are strategically governed and which are running on autopilot.",Strategy Speed Gap,"Verbund AG is under pressure to refresh category strategy faster as major investments in. At Bertelsmann, Akirolabs moved category strategy work across 7 divisions. I can show where that fits Verbund AG.
+
+Manuel",Verbund's category strategies vs. investment speed,"Verbund AG is under pressure to refresh category strategy faster as major investments in renewable energy expansion and grid infrastructure require. That usually leaves teams reacting late to market moves.
+
+At Bertelsmann, Akirolabs moved category strategy work across 7 divisions from weeks to days. It gave category teams a faster way to keep strategy current.
+
+I can share the operating model behind Bertelsmann's rollout and where it fits Verbund AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Verbund AG's procurement team likely has execution tooling in place, but major investments in. At Merck, Akirolabs handles the strategy work before decisions flow. I can share where that layer fits at Verbund.
+
+Manuel",Strategy layer gap above Verbund's procurement stack,"Verbund AG's procurement team likely has execution tooling in place, but major investments in renewable energy expansion and grid infrastructure require still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+At Merck, Akirolabs handles the strategy work before decisions flow into the downstream procurement tools.
+
+I can share the stack view Merck uses and where the same layer would fit at Verbund AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, Verbund's procurement team manages category strategies for turbine maintenance, construction services, IT, and. Raiffeisen Bank used Akirolabs to bring neglected categories under formal. I can share the benchmark for Energy / Utilities.
+
+Manuel",How much Verbund spend lacks a strategy,"Today, Verbund's procurement team manages category strategies for turbine maintenance, construction services, IT, and consulting largely through PowerPoint decks and consultant workshops. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to bring neglected categories under formal strategy without adding headcount. It gave the team a scalable way to widen strategic coverage.
+
+I can share the spend-under-strategy benchmark we use for Energy / Utilities. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",2
+13,ING Group (Germany operations),Banking / Financial services,"Amsterdam, Netherlands","~57,000",Global CPO / Head of Procurement Germany,Digital-first banking model creates high IT and marketing spend complexity where traditional manual category strategy cycles cannot keep pace with rapid vendor market evolution.,"Today, ING Germany's procurement team manages complex indirect spend across IT infrastructure, cloud services, marketing agencies, and consulting firms. Category strategies for these fast-moving markets get built in PowerPoint decks and Excel models, reviewed quarterly at best. By the time a strategy is approved, the vendor landscape in areas like cloud computing or digital marketing has already shifted. Categories like contingent labor or SaaS subscriptions run without a documented strategy at all. With Akirolabs: ING Germany builds and refreshes category strategies for IT, marketing, and professional services in days instead of weeks. Scenario modeling accounts for rapid vendor market shifts in cloud and digital services. More indirect spend categories carry a current, board-ready strategy. The procurement team operates as a strategic function at the speed ING's digital-first model demands, without adding headcount or consultant dependency.",Strategy Speed Gap,"ING Group (Germany operations) is under pressure to refresh category strategy faster as digital-first. Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a. I can send the workflow for ING Group (Germany.
+
+Manuel",ING's category strategy cycle vs. market speed,"ING Group (Germany operations) is under pressure to refresh category strategy faster as digital-first banking model creates high it and marketing spend complexity. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a days-long workflow. It gave category teams a faster way to keep strategy current.
+
+I can send the Bertelsmann workflow and show where it would apply at ING Group (Germany operations). That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"ING Group (Germany operations)'s procurement team likely has execution tooling in place, but digital-first. Merck uses Akirolabs as the strategy layer above its existing. I can show where that fits ING Group (Germany.
+
+Manuel",Strategy layer gap above ING's procurement stack,"ING Group (Germany operations)'s procurement team likely has execution tooling in place, but digital-first banking model creates high it and marketing spend complexity still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck uses Akirolabs as the strategy layer above its existing procurement stack, so the suite stays in place.
+
+I can show the Merck architecture and where it would sit on top of ING Group (Germany operations)'s stack.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, ING Germany's procurement team manages complex indirect spend across IT infrastructure, cloud services. Raiffeisen Bank used Akirolabs to move autopilot categories back under. I can send the benchmark and first gaps.
+
+Manuel",How much ING spend has a current strategy,"Today, ING Germany's procurement team manages complex indirect spend across IT infrastructure, cloud services, marketing agencies, and consulting firms. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to move autopilot categories back under documented strategy and expand coverage.
+
+I can send the benchmark we use for Banking / Financial services and the first coverage gaps teams usually find. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",2
+14,OMV AG,Energy / Oil & Gas / Chemicals,"Vienna, Austria","~22,000",VP Procurement / Head of Group Procurement,Transformation from oil & gas to sustainable fuels and chemicals requires fundamentally re-building category strategies for new supply markets at pace.,"Today, OMV's procurement team is rebuilding category strategies across drilling services, specialty chemicals feedstocks, MRO, logistics, and IT while the company pivots from traditional oil and gas to sustainable fuels and circular economy materials. Each strategy refresh runs through consultants, PowerPoint decks, and weeks of stakeholder alignment. New supply markets in bio-feedstocks and green hydrogen lack historical baselines, so category managers are building from scratch with spreadsheets. The strategy backlog grows faster than the team can clear it. With Akirolabs: category managers use guided, AI-supported workflows to generate scenario-modeled strategies for emerging categories like bio-feedstock sourcing, carbon capture services, and sustainable logistics. A strategy that took six weeks now takes days. The team covers more categories under formal strategy without adding headcount, and every output is board-ready and aligned to OMV's Strategy 2030 sustainability targets. Existing SAP Ariba or S2P investments stay in place. Akirolabs sits above them as the strategy layer.",Strategy Speed Gap,"OMV AG is under pressure to refresh category strategy faster as transformation from oil. Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh. I can map that workflow to OMV AG.
+
+Manuel",OMV's strategy refresh pace vs. 2030 targets,"OMV AG is under pressure to refresh category strategy faster as transformation from oil & gas to sustainable fuels and chemicals. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh time by up to 90%. It gave category teams a faster way to keep strategy current.
+
+I can walk through the Bertelsmann workflow and map it to OMV AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"OMV AG's procurement team likely has execution tooling in place, but transformation from oil. Merck and Axpo run Akirolabs on top of the execution. I can map that setup to OMV AG.
+
+Manuel",Where OMV's category strategies live today,"OMV AG's procurement team likely has execution tooling in place, but transformation from oil & gas to sustainable fuels and chemicals still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck and Axpo run Akirolabs on top of the execution stack they already own, with no replacement project attached.
+
+I can walk through the strategy-layer setup Merck uses and map it to OMV AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, OMV's procurement team is rebuilding category strategies across drilling services, specialty chemicals feedstocks. Raiffeisen Bank used Akirolabs to increase spend under strategy across. I can share where teams usually start.
+
+Manuel",How much OMV spend runs without strategy,"Today, OMV's procurement team is rebuilding category strategies across drilling services, specialty chemicals feedstocks, MRO, logistics, and IT while the company pivots. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to increase spend under strategy across categories that had been running on inertia.
+
+I can share the benchmark view for Energy / Oil & Gas / Chemicals and where teams usually start. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",2
+15,Clariant AG,Specialty chemicals,"Muttenz, Switzerland","~11,000",Chief Procurement Officer / Head of Global Procurement,"Post-portfolio simplification, Clariant needs to rebuild category strategies around focused specialty chemistry portfolio while managing volatile raw material and energy markets.","Before: Clariant's procurement team manages indirect categories spanning energy contracts, logistics, lab equipment, IT, and professional services across a post-divestiture portfolio that's fundamentally different from two years ago. Legacy category strategies built around the old conglomerate structure no longer reflect the focused specialty chemicals business. Refreshing them one by one with consultants and spreadsheets while energy and raw material markets shift weekly means strategies are outdated before they reach the board. With Akirolabs: Clariant's category managers rebuild strategies across all indirect spend categories in parallel, using AI-driven scenario modeling that accounts for energy price volatility and supplier concentration risks specific to European specialty chemicals. Each strategy is stakeholder-aligned, documented, and board-ready. The team covers more categories without adding headcount, matching the pace of Clariant's simplified portfolio with procurement strategies built for the business it is now.",Strategy Speed Gap,"Clariant AG is under pressure to refresh category strategy faster as post-portfolio simplification, clariant. At Bertelsmann, Akirolabs moved category strategy work across 7 divisions. I can show where that fits Clariant AG.
+
+Manuel","Clariant's new portfolio, old category strategies?","Clariant AG is under pressure to refresh category strategy faster as post-portfolio simplification, clariant needs to rebuild category strategies around focused. That usually leaves teams reacting late to market moves.
+
+At Bertelsmann, Akirolabs moved category strategy work across 7 divisions from weeks to days. It gave category teams a faster way to keep strategy current.
+
+I can share the operating model behind Bertelsmann's rollout and where it fits Clariant AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Clariant AG's procurement team likely has execution tooling in place, but post-portfolio simplification, clariant. At Merck, Akirolabs handles the strategy work before decisions flow. I can share where that layer fits at Clariant.
+
+Manuel",Where Clariant builds category strategy today,"Clariant AG's procurement team likely has execution tooling in place, but post-portfolio simplification, clariant needs to rebuild category strategies around focused still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+At Merck, Akirolabs handles the strategy work before decisions flow into the downstream procurement tools.
+
+I can share the stack view Merck uses and where the same layer would fit at Clariant AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Clariant's procurement team manages indirect categories spanning energy contracts, logistics, lab equipment, IT, and. Raiffeisen Bank used Akirolabs to bring neglected categories under formal. I can share the benchmark for Specialty chemicals.
+
+Manuel",How much Clariant spend lacks a strategy,"Clariant's procurement team manages indirect categories spanning energy contracts, logistics, lab equipment, IT, and professional services across a post-divestiture portfolio that's fundamentally. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to bring neglected categories under formal strategy without adding headcount. It gave the team a scalable way to widen strategic coverage.
+
+I can share the spend-under-strategy benchmark we use for Specialty chemicals. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",2
+16,Knorr-Bremse AG,Industrial manufacturing / Rail & commercial vehicles,"Munich, Germany","~31,000",Chief Procurement Officer / SVP Group Procurement,Dual division structure (rail systems + commercial vehicle systems) with divergent supplier markets creates duplicated manual strategy efforts and limited cross-divisional leverage.,"Today, Knorr-Bremse's procurement teams in Rail Systems and Commercial Vehicle Systems each build category strategies independently. MRO suppliers, IT services, logistics providers, and facility management contracts get analyzed in parallel across both divisions using spreadsheets and consultants. Cross-divisional leverage on shared indirect categories stays theoretical because nobody has a unified strategy framework. Each refresh cycle takes weeks. The CPO can't show the board a consolidated view of strategic coverage across 31,000-employee operations spanning two fundamentally different supplier markets. With Akirolabs: Both divisions run category strategies through a single guided workflow. A category manager in the rail division building an MRO strategy can see scenarios and supplier market intelligence the truck side already developed. Shared indirect categories like IT, logistics, and professional services get one cross-divisional strategy instead of two siloed ones. The CPO reports to the board with a real number: percentage of spend under documented, current strategy across both divisions. Strategy cycles that took weeks now close in days.",Strategy Speed Gap,"Knorr-Bremse AG is under pressure to refresh category strategy faster as dual division structure. Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a. I can send the workflow for Knorr-Bremse AG.
+
+Manuel",Category strategy cycles across two divisions,"Knorr-Bremse AG is under pressure to refresh category strategy faster as dual division structure (rail systems + commercial vehicle systems) with. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs to compress multi-division strategy refreshes into a days-long workflow. It gave category teams a faster way to keep strategy current.
+
+I can send the Bertelsmann workflow and show where it would apply at Knorr-Bremse AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Knorr-Bremse AG's procurement team likely has execution tooling in place, but dual division structure. Merck uses Akirolabs as the strategy layer above its existing. I can show where that fits Knorr-Bremse AG's stack.
+
+Manuel",Strategy layer above your procurement stack,"Knorr-Bremse AG's procurement team likely has execution tooling in place, but dual division structure (rail systems + commercial vehicle systems) with still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck uses Akirolabs as the strategy layer above its existing procurement stack, so the suite stays in place.
+
+I can show the Merck architecture and where it would sit on top of Knorr-Bremse AG's stack. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, Knorr-Bremse's procurement teams in Rail Systems and Commercial Vehicle Systems each build category. Raiffeisen Bank used Akirolabs to move autopilot categories back under. I can send the benchmark and first gaps.
+
+Manuel",Spend under strategy across both divisions,"Today, Knorr-Bremse's procurement teams in Rail Systems and Commercial Vehicle Systems each build category strategies independently. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to move autopilot categories back under documented strategy and expand coverage.
+
+I can send the benchmark we use for Industrial manufacturing / Rail & commercial vehicles and the first coverage gaps teams usually find. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+17,Wacker Chemie AG,Specialty chemicals / Silicon-based products,"Munich, Germany","~16,000",Head of Corporate Procurement / VP Procurement,"Extreme energy cost sensitivity and volatile polysilicon markets demand dynamic, real-time category strategy adjustments that 6-week PowerPoint cycles cannot deliver.","Today at Wacker Chemie, category strategies for energy procurement, polysilicon logistics, MRO for Burghausen and Nünchritz plants, and technical services likely run on quarterly or semi-annual refresh cycles built in Excel and PowerPoint. When electricity prices spike 40% in a month or silicon spot markets shift, the strategy docs are already stale. Category managers spend weeks gathering supplier data, modeling scenarios manually, and aligning stakeholders across four business divisions. The result: procurement responds to volatility rather than positioning ahead of it, and the CPO walks into board meetings with outdated assumptions. With Akirolabs: Wacker's procurement team could run real-time scenario models across energy hedging strategies, logistics route alternatives, and MRO consolidation options. When polysilicon prices move or energy regulations shift, category strategies update in days, not weeks. Every category from silicone intermediates transport to IT infrastructure gets a living, board-ready strategy document. Stakeholder alignment happens inside the platform instead of across 30-email threads. More categories come under formal strategy without adding headcount.",Strategy Speed Gap,"Wacker Chemie AG is under pressure to refresh category strategy faster as extreme energy. Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh. I can map that workflow to Wacker Chemie AG.
+
+Manuel",Wacker's category strategy cycle vs. market speed,"Wacker Chemie AG is under pressure to refresh category strategy faster as extreme energy cost sensitivity and volatile polysilicon markets demand dynamic. That usually leaves teams reacting late to market moves.
+
+Bertelsmann used Akirolabs across 7 divisions and cut strategy refresh time by up to 90%. It gave category teams a faster way to keep strategy current.
+
+I can walk through the Bertelsmann workflow and map it to Wacker Chemie AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Wacker Chemie AG's procurement team likely has execution tooling in place, but extreme energy. Merck and Axpo run Akirolabs on top of the execution. I can map that setup to Wacker Chemie AG.
+
+Manuel",Where Wacker builds category strategy today,"Wacker Chemie AG's procurement team likely has execution tooling in place, but extreme energy cost sensitivity and volatile polysilicon markets demand dynamic still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+Merck and Axpo run Akirolabs on top of the execution stack they already own, with no replacement project attached.
+
+I can walk through the strategy-layer setup Merck uses and map it to Wacker Chemie AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today at Wacker Chemie, category strategies for energy procurement, polysilicon logistics, MRO for Burghausen. Raiffeisen Bank used Akirolabs to increase spend under strategy across. I can share where teams usually start.
+
+Manuel",How many Wacker spend categories have a strategy,"Today at Wacker Chemie, category strategies for energy procurement, polysilicon logistics, MRO for Burghausen and Nünchritz plants, and technical services likely run. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to increase spend under strategy across categories that had been running on inertia.
+
+I can share the benchmark view for Specialty chemicals / Silicon-based products and where teams usually start. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",1
+18,Erste Group Bank AG,Banking / Financial services,"Vienna, Austria","~46,000",Head of Group Procurement / CPO,Multi-country banking operations with diverse local supplier markets make centralized category strategy creation extremely time-consuming and reliant on siloed local knowledge.,"Today, Erste Group's procurement team builds category strategies for IT outsourcing, consulting panels, facility management, and professional services across seven CEE markets. Each country brings different supplier dynamics, regulatory contexts, and local knowledge locked in regional teams' heads. Refreshing a single category strategy means weeks of calls, spreadsheet consolidation, and PowerPoint decks that are outdated before they reach the board. Most indirect categories run without a documented strategy at all. With Akirolabs: Every category. Every market. One structured workflow. Regional intelligence feeds into scenario models that produce board-ready strategies in days, not quarters. Category managers in Prague, Bucharest, and Vienna work from the same strategic framework. Coverage expands from a handful of flagship categories to the full indirect portfolio. The CPO walks into the board meeting with a defensible, current strategy for every material spend area.",Strategy Speed Gap,"Erste Group Bank AG is under pressure to refresh category strategy faster as multi-country. At Bertelsmann, Akirolabs moved category strategy work across 7 divisions. I can show where that fits Erste Group Bank.
+
+Manuel",Category strategy cycles across seven markets,"Erste Group Bank AG is under pressure to refresh category strategy faster as multi-country banking operations with diverse local supplier markets make centralized. That usually leaves teams reacting late to market moves.
+
+At Bertelsmann, Akirolabs moved category strategy work across 7 divisions from weeks to days. It gave category teams a faster way to keep strategy current.
+
+I can share the operating model behind Bertelsmann's rollout and where it fits Erste Group Bank AG. That is usually where the manual process falls behind first.
+
+Manuel Suhrcke",Suite Fatigue Wedge,"Erste Group Bank AG's procurement team likely has execution tooling in place, but multi-country. At Merck, Akirolabs handles the strategy work before decisions flow. I can share where that layer fits at Erste.
+
+Manuel",Strategy layer above your procurement stack,"Erste Group Bank AG's procurement team likely has execution tooling in place, but multi-country banking operations with diverse local supplier markets make centralized still has to be turned into strategy before sourcing starts. That planning gap usually slows decisions before execution begins.
+
+At Merck, Akirolabs handles the strategy work before decisions flow into the downstream procurement tools.
+
+I can share the stack view Merck uses and where the same layer would fit at Erste Group Bank AG. That planning gap usually sits above the suite, not inside it.
+
+Manuel Suhrcke",Unmanaged Spend Trigger,"Today, Erste Group's procurement team builds category strategies for IT outsourcing, consulting panels, facility. Raiffeisen Bank used Akirolabs to bring neglected categories under formal. I can share the benchmark for Banking / Financial.
+
+Manuel",Spend under strategy ratio at Erste Group,"Today, Erste Group's procurement team builds category strategies for IT outsourcing, consulting panels, facility management, and professional services across seven CEE markets. That usually means part of the portfolio is still running on inertia.
+
+Raiffeisen Bank used Akirolabs to bring neglected categories under formal strategy without adding headcount. It gave the team a scalable way to widen strategic coverage.
+
+I can share the spend-under-strategy benchmark we use for Banking / Financial services. That is usually where teams discover how much spend is still uncovered.
+
+Manuel Suhrcke",2
