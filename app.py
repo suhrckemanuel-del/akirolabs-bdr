@@ -226,17 +226,17 @@ ANGLE_DESCRIPTIONS = {
 }
 
 MOJIBAKE_REPLACEMENTS = {
-    "â€"": "-",
-    "â€"": "-",
-    "â€˜": "'",
-    "â€™": "'",
-    'â€œ': '"',
-    'â€\x9d': '"',
-    "Â·": "·",
-    "Ã¼": "u",
-    "Ã¶": "o",
-    "Ã¤": "a",
-    "ÃŸ": "ss",
+    "\u00e2\u20ac\u201d": "-",   # em dash
+    "\u00e2\u20ac\u201c": "-",   # en dash
+    "\u00e2\u20ac\u02dc": "'",   # left single quote
+    "\u00e2\u20ac\u2122": "'",   # right single quote
+    "\u00e2\u20ac\u0153": '"',   # left double quote
+    "\u00e2\u20ac\x9d": '"',     # right double quote
+    "\u00c2\u00b7": "\u00b7",    # middle dot
+    "\u00c3\u00bc": "u",         # u-umlaut
+    "\u00c3\u00b6": "o",         # o-umlaut
+    "\u00c3\u00a4": "a",         # a-umlaut
+    "\u00c3\u0178": "ss",        # sharp s
 }
 
 GENERATE_SYSTEM = """\
